@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Chat app CSS illustration](https://github.com/wuzgood98/chat-app-css-illustration)
-- Live Site URL: [Chat app CSS illustration](https://wuzgood98.github.io/chat-app-css-illustration/)
+- Solution URL: [Chat app CSS illustration](https://github.com/wuzgood98/chat-app-css-illustration-solution)
+- Live Site URL: [Chat app CSS illustration](https://wuzgood98.github.io/chat-app-css-illustration-solution/)
 
 ## My process
 
