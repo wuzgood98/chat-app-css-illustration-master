@@ -181,13 +181,13 @@ i {
   gap: 0.6rem;
 }
 
-.purchase-left>input {
+.purchase-left>label>input {
   position: relative;
   margin: 0;
   padding: 0;
 }
 
-.purchase-left>input::before {
+.purchase-left>label>input::before {
   content: "";
   position: absolute;
   top: -0.1rem;
@@ -259,7 +259,7 @@ i {
   z-index: 10;
 }
 
-.chat .text-input>input {
+.chat .text-input>label>input {
   background-color: transparent;
   height: 100%;
   width: 70%;
